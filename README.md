@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋. This will be my portfolio site some day. Stay tuned!
 
 <!--
 **akuul15/akuul15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
