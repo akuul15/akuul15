@@ -1,2 +1,1 @@
-![](https://leetcard.jacoblin.cool/ammukuul15?theme=dark,unicorn)
-![](https://leetcard.jacoblin.cool/ammukuul15?ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ammukuul15?theme=dark&ext=activity)
