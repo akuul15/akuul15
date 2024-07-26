@@ -6,3 +6,6 @@
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/ammukuul15?theme=dark&ext=activity" alt="LeetCode Stats" />
 </div>
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ammar-15&theme=dark" alt="ammar-15" />
+</div>
