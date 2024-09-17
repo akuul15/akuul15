@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ammar-15&show_icons=true&theme=synthwave" alt="Ammar's GitHub stats" width="46%"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ammar-15&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Langs" width="28%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ammar-15&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="Top Langs" width="28%"/>
 </div>
 
 <div align="center">
