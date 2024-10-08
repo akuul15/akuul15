@@ -1,17 +1,16 @@
 <h1 align="center">Hello World! I'm Ammar Faruqui</h1>  
 <h3 align="center">Aspiring Software Developer in St. John's, NL, Canada</h3>
-<img align="right" style="margin: 20px border-radius:10px;" alt="Coding" width="400" src="https://github.com/user-attachments/assets/ea7edfeb-691f-4099-8edf-ea80230b1917">
-
 
 ## About Me
+<img align="right" style="margin: 20px border-radius:10px;" alt="Coding" width="400" src="https://github.com/user-attachments/assets/ea7edfeb-691f-4099-8edf-ea80230b1917">
 
 - 🚀 Currently going through the React module of the **Get Coding** program, where I’m solidifying my skills in building dynamic and responsive web applications.
   
-- 💡 I am a passionate coder who thrives on solving real-world problems and delivering innovative and efficient solutions. Whether it's crafting clean, intuitive interfaces or tackling backend challenges, I love every step of the development process.
+- 💡 Started my journey to become a fullstack developer. I am a passionate coder who thrives on solving real-world problems and delivering innovative and efficient solutions. Whether it's crafting clean, intuitive interfaces or tackling backend challenges, I love every step of the development process.
   
 - 🧠 Always eager to learn and grow, I believe in the power of continuous learning and pushing my limits.
 
-- ⚡ When I’m not coding, you’ll find me on the football (soccer) field or immersed in the excitement of Formula 1. ⚽🏎️
+- ⚡ When I’m not coding, you’ll find me on the football (soccer) field, enjoying movies or immersed in the world of Formula 1. ⚽🏎️
 
 - 💻 Imagine if programming languages were people at a party 🕺... Who's stealing the show, who's chilling in the corner, and who's causing all the chaos? Drop your answers and let's get the code party started! 🎉🤖
 
