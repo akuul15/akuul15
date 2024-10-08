@@ -7,8 +7,7 @@
 
 - 🚀 Currently going through the React module of the **Get Coding** program, where I’m solidifying my skills in building dynamic and responsive web applications.
   
-- 💡 I’m a passionate coder who thrives on solving real-world problems and delivering innovative and efficient solutions.
-      Whether it's crafting clean, intuitive interfaces or tackling backend challenges, I love every step of the development process.
+- 💡 I am a passionate coder who thrives on solving real-world problems and delivering innovative and efficient solutions. Whether it's crafting clean, intuitive interfaces or tackling backend challenges, I love every step of the development process.
   
 - 🧠 Always eager to learn and grow, I believe in the power of continuous learning and pushing my limits.
 
