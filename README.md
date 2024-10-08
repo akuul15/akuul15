@@ -1,17 +1,22 @@
 <h1 align="center">Hello World! I'm Ammar Faruqui</h1>  
-<h3 align="center">Aspiring Software Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/ea7edfeb-691f-4099-8edf-ea80230b1917">
+<h3 align="center">Aspiring Software Developer in St. John's, NL, Canada</h3>
+<img align="right" style="margin: 20px;" alt="Coding" width="400" src="https://github.com/user-attachments/assets/ea7edfeb-691f-4099-8edf-ea80230b1917">
 
 
 ## About Me
 
-- 🚀 Currently diving deep into the React module of the **Get Coding** program, where I’m honing my skills in building dynamic and responsive web applications.
+- 🚀 Currently going through the React module of the **Get Coding** program, where I’m solidifying my skills in building dynamic and responsive web applications.
   
-- 💡 I’m a passionate coder who thrives on solving complex problems and delivering innovative and efficient solutions. Whether it's crafting clean, intuitive interfaces or tackling backend challenges, I love every step of the development process.
+- 💡 I’m a passionate coder who thrives on solving real-world problems and delivering innovative and efficient solutions. Whether it's crafting clean, intuitive interfaces or tackling backend challenges, I love every step of the development process.
   
-- 🧠 Always eager to learn and grow, I believe in the power of continuous learning and pushing my limits to stay on the cutting edge of technology.
+- 🧠 Always eager to learn and grow, I believe in the power of continuous learning and pushing my limits.
 
-- ⚡ When I’m not coding, you’ll find me on the football (soccer) field or immersed in the excitement of Formula 1. ⚽🏎️ 
+- ⚡ When I’m not coding, you’ll find me on the football (soccer) field or immersed in the excitement of Formula 1. ⚽🏎️
+
+- 💻 Imagine if programming languages were people at a party 🕺... Who's stealing the show, who's chilling in the corner, and who's causing all the chaos? Drop your answers and let's get the code party started! 🎉🤖
+
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ammarfaruqui/)
+
 
 ## Projects
 
