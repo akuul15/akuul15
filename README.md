@@ -12,7 +12,7 @@
 
 - ⚡ When I’m not coding, you’ll find me on the football (soccer) field, enjoying movies or immersed in the world of Formula 1. ⚽🏎️
 
-- 💻 Coffee's on me if you sit down for a chat ☕️🫶
+- 💻 Coffee's on me if you wanna sit down for a chat ☕️🫶
 
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammarfaruqui/)
   [![Twitter Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ammar_tsx/highlights)
