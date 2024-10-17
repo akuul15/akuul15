@@ -12,9 +12,10 @@
 
 - ⚡ When I’m not coding, you’ll find me on the football (soccer) field, enjoying movies or immersed in the world of Formula 1. ⚽🏎️
 
-- 💻 Imagine if programming languages were people at a party 🕺... Who's stealing the show, who's chilling in the corner, and who's causing all the chaos? Drop your answers and let's get the code party started! 🎉🤖
+- 💻 Coffee's on me if you sit down for a chat ☕️🫶
 
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ammarfaruqui/)
+  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammarfaruqui/)
+  [![Twitter Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ammar_tsx/highlights)
 
 
 ## Projects
