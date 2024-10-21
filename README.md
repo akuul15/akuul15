@@ -4,23 +4,23 @@
 ## About Me
 <img align="right" style="margin: 20px border-radius:10px;" alt="Coding" width="400" src="https://github.com/user-attachments/assets/ea7edfeb-691f-4099-8edf-ea80230b1917">
 
-- 🚀 Currently going through the React module of the **Get Coding** program, where I’m solidifying my skills in building dynamic and responsive web applications.
+- 🚀 Currently going through the React module of the **Get Coding** program, where I’m solidifying my skills in front-end web development.
   
 - 💡 Started my journey to become a fullstack developer. I am a passionate coder who thrives on solving real-world problems and delivering innovative and efficient solutions. Whether it's crafting clean, intuitive interfaces or tackling backend challenges, I love every step of the development process.
   
 - 🧠 Always eager to learn and grow, I believe in the power of continuous learning and pushing my limits.
 
-- ⚡ When I’m not coding, you’ll find me on the football (soccer) field, enjoying movies or immersed in the world of Formula 1. ⚽🏎️
+- ⚡ When I’m not coding, I'm playing football (soccer)⚽, enjoying movies🍿 or watching Formula 1. <a href="https://emoji.gg/emoji/ferrari"><img src="https://cdn3.emoji.gg/emojis/ferrari.png" width="14px" height="16px" alt="ferrari"></a>🏎️
 
-- 💻 Coffee's on me if you wanna sit down for a chat ☕️🫶
-
-  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammarfaruqui/)
+- 💻 Always up for a chat over coffee ☕️🫶   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ammarfaruqui/)
   [![Twitter Badge](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ammar_tsx/highlights)
 
 
 ## Projects
 
 - 🏨 [Roomer](https://roomer1-demo.web.app/): A web app designed to streamline hotel operations by facilitating real-time communication between the front desk and housekeeping.
+- 🏨 Housekeepr: work in progress....
+
 
 ## Languages and Tools
 
