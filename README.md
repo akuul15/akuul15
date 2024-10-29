@@ -19,6 +19,7 @@
 ## Projects
 
 - 🏨 [Roomer](https://roomer1-demo.web.app/): A web app designed to streamline hotel operations by facilitating real-time communication between the front desk and housekeeping.
+- 🏨 [GitHub Elo](https://githubelo.web.app/): A place for github users to get an elo score of their github stats.
 - 🏨 Housekeepr: work in progress....
 
 
