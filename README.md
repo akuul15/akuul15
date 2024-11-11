@@ -1,5 +1,5 @@
 <h1 align="center">Hello World! I'm Ammar Faruqui</h1>  
-<h3 align="center">Aspiring Software Developer in St. John's, NL, Canada</h3>
+<h3 align="center">Software Developer in St. John's, NL, Canada</h3>
 
 ## About Me
 <img align="right" style="margin: 20px border-radius:10px;" alt="Coding" width="400" src="https://github.com/user-attachments/assets/ea7edfeb-691f-4099-8edf-ea80230b1917">
