@@ -8,7 +8,7 @@
   
 - 💡 Started my journey to become a fullstack developer. I am a passionate coder who thrives on solving real-world problems and delivering innovative and efficient solutions. Whether it's crafting clean, intuitive interfaces or tackling backend challenges, I love every step of the development process.
   
-- 🧠 Always eager to learn, I believe in the power of continuous learning and pushing my limits.
+- 🧠 Always eager to learn, I believe in the power of continuous learning and pushing my limits beyond the norms of capabilities made up by society.
 
 - ⚡ When I’m not coding, I'm playing football (soccer)⚽, enjoying movies🍿 or watching Formula 1. <a href="https://emoji.gg/emoji/ferrari"><img src="https://cdn3.emoji.gg/emojis/ferrari.png" width="14px" height="16px" alt="ferrari"></a>🏎️
 
