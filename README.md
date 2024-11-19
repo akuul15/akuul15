@@ -4,7 +4,7 @@
 ## About Me
 <img align="right" style="margin: 20px border-radius:10px;" alt="Coding" width="400" src="https://github.com/user-attachments/assets/ea7edfeb-691f-4099-8edf-ea80230b1917">
 
-- 🚀 Currently going through the React module of the **Get Building** program, where I’m solidifying my skills in front-end web development.
+- 🚀 Currently leveling up in React through the **Get Building** program, where I’m solidifying my skills in front-end web development.
   
 - 💡 Started my journey to become a fullstack developer. I am a passionate coder who thrives on solving real-world problems and delivering innovative and efficient solutions. Whether it's crafting clean, intuitive interfaces or tackling backend challenges, I love every step of the development process.
   
